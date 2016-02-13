@@ -1,6 +1,6 @@
 # External_NMAP_Auth
 
-Just a repo with some automated NMAP Scans. They are all written in Ruby and will work with 1.9.x-2.x.
+Just a repo with some automated NMAP Scans. They are all written in Ruby and will work with 1.9.x-2.x. This one uses Google Apps / Gmail for smtp auth. As much as I dislike Goolge, I have not had time to test it with anything else. Make sure you see the README in the script directory for required gems.
 
 Okay I lied.. there is a Masscan scripts as well. **WARNING** If you dont know how to use masscan or have not used it before, please for the love of Network Engineers look at the warnings of masscan.
 

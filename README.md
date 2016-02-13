@@ -10,6 +10,6 @@ I am not responsible for you killing your network because you did not RTFM
 
 Tested on
 
-Debian Based OS's
-RHEL Based OS's
-FreeBSD
+- Debian Based OS's
+- RHEL Based OS's
+- FreeBSD

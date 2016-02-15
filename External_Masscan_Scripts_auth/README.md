@@ -11,9 +11,10 @@ GEM required
 
  - In email_conf you will need to update both files with a To:email @ddress
 
- - In ip_list you will need to add the IP(s) you wish to scan. 1 IP perline, you can also add them to the hosts file with a name so you have a better idea what you are looking at.
- 	Nmap scan report for Custom Name (X.X.X.X) vs Nmap scan report for (X.X.X.X)
-
+ - In ip_list you will need to add the IP(s) you wish to scan. 
+ 	1 IP perline 
+ 	Sadly at this time masscan ignores hosts file
+ 	
  - You can also adjust the nmap args if these dont fit your needs.
 
  - There is an external.rb and external_test.rb. This will allow you to always have a working copy and allow you to test new settings.

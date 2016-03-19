@@ -13,3 +13,4 @@ Tested on
 - Debian Based OS's
 - RHEL Based OS's
 - FreeBSD
+- OS X

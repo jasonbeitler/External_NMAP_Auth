@@ -15,7 +15,7 @@ Tested on
 - FreeBSD
 - OS X
 
-Email Testd on
+Email Tested on
 
 - Gmail
 - Zoho
